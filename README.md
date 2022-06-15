@@ -15,7 +15,7 @@
 > By Michael Puiu: The premise behind this guide is reinforcing the aspect of "making a manual accessible for a fourth grader or grandparent". This is done through a focus on using gifs as instructional videos so that anyone can follow along and create the essentials of their account, regardless of reading or technical comprehension. In this fashion, I chose to cover the essentials of an account for a user to get started and as they continue to explore and use the app, they will intuitively pick up techniques that the average user has. The manual is a baseline for everyone to begin their journey to using TikTok. I used Markdown and docsify to create a website that displays any text & gifs in a clean, organized format. While not having too much visual flair, this can serve to benefit for audiences like the fourth grader or grandparent so as they are not intimidated by extraneous effects and only have the information that will be necessary.
 
 ## Installing TikTok
-<div class = "image-wrapper"><img src = "https://media.giphy.com/media/SkGr3SadQO9jf3aq0s/giphy.gif" class="img-thumbnail" height ="auto" width ="100%"></div> 
+<div class = "image-wrapper"><img src = "https://thumbs.gfycat.com/OblongDeepDragonfly-max-1mb.gif" class="img-thumbnail" height ="auto" width ="100%"></div> 
 To begin installing TikTok, head over to your device's app store. <br>
 Type "TikTok" into the search bar and click the install button. 
 
